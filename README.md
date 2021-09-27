@@ -1,6 +1,6 @@
-## Hi, i'm Emanuel ;)
-### -> Working and studying about web development and its aspects 👨‍💻
-### -> Studying React, Angular and Bootstrap in addition to JavaScript 📚
+### Hi, i'm Emanuel ;)
+#### -> Working and studying about web development and its aspects 👨‍💻
+#### -> Studying React, Angular and Bootstrap in addition to JavaScript 📚
 <div align="center">
     <a href="https://github.com/e-manuelb">
         <img height="180em"
