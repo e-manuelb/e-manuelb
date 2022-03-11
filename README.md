@@ -1,6 +1,6 @@
 ### Hi, i'm Emanuel ;)
 #### -> Working and studying about web development and its aspects 👨‍💻
-#### -> Student of Information Systems and technology lover. 📚
+#### -> Systems Analysis and Development Student and a technology lover. 📚
 
 <div align="center">
     <a href="https://github.com/e-manuelb">
