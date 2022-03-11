@@ -12,6 +12,8 @@
 <div style="display: inline_block"><br>
     <img align="center" alt="e-Manuel-JS" height="30" width="40"
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img align="center" alt="e-Manuel-PHP" height="30" width="40"
+        src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/php.svg">
     <img align="center" alt="e-Manuel-TS" height="30" width="40"
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
     <img align="center" alt="e-Manuel-React" height="30" width="40"
@@ -20,8 +22,6 @@
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="e-Manuel-CSS" height="30" width="40"
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" alt="e-Manuel-Python" height="30" width="40"
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
 
 ##
