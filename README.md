@@ -1,6 +1,13 @@
-### Hi, i'm Emanuel ;)
-#### -> Working and studying about web development and its aspects 👨‍💻
-#### -> Systems Analysis and Development Student and a technology lover. 📚
+### Hi, i'm Emanuel. Today, I work with PHP (Laravel), as a Backend Developer, but I have skills to be a Fullstack Developer. Hope you have a good impresion. ;)
+#### Stacks:
+#### Backend:
+##### -> PHP (Laravel)
+##### -> Java (Spring Boot)
+##### -> NodeJS
+#### Frontend:
+##### -> React
+##### -> VueJS
+#### Systems Analysis and Development Student and a technology lover. 📚
 
 <div align="center">
     <a href="https://github.com/e-manuelb">
