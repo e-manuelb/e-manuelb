@@ -1,13 +1,8 @@
-### Hi, i'm Emanuel. Today, I work with PHP (Laravel), as a Backend Developer, but I have skills to be a Fullstack Developer. Hope you have a good impresion. ;)
-#### Stacks:
-#### Backend:
-##### -> PHP (Laravel)
-##### -> Java (Spring Boot)
-##### -> NodeJS
-#### Frontend:
-##### -> React
-##### -> VueJS
-#### Systems Analysis and Development Student and a technology lover. 📚
+Hello, my name is Emanuel and I am a Backend Developer with extensive experience working with PHP (Laravel). However, I also possess the skills to work as a Fullstack Developer, having worked with a range of technologies across both the frontend and backend.
+
+My backend expertise includes PHP (Laravel), Java (Spring Boot), and NodeJS, while on the frontend, I have worked with React and VueJS. As a Systems Analysis and Development student, I have gained a deep understanding of software design and development principles, which I apply to my work every day.
+
+As a technology enthusiast, I am always eager to learn new technologies and stay up-to-date with industry trends and advancements. I am passionate about creating efficient and reliable software solutions that meet and exceed client expectations.
 
 <div align="center">
     <a href="https://github.com/e-manuelb">
