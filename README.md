@@ -1,4 +1,4 @@
-Hello, my name is Emanuel and I am a Backend Developer with extensive experience working with PHP (Laravel). However, I also possess the skills to work as a Fullstack Developer, having worked with a range of technologies across both the frontend and backend.
+Hello, my name is Emanuel and I am a Backend Developer with extensive experience working with Java (Spring Boot) and PHP (Laravel). However, I also possess the skills to work as a Fullstack Developer, having worked with a range of technologies across both the frontend and backend.
 
 My backend expertise includes PHP (Laravel), Java (Spring Boot), and NodeJS, while on the frontend, I have worked with React and VueJS. As a Systems Analysis and Development student, I have gained a deep understanding of software design and development principles, which I apply to my work every day.
 
